@@ -1,0 +1,8 @@
+langchain-community>=0.0.10
+langchain-core>=0.1.0
+pydantic>=2.7.4
+pymupdf>=1.23.0
+docarray>=0.32.0
+python-dotenv>=1.0.0
+faiss-cpu>=1.7.4
+numpy>=1.24.0
